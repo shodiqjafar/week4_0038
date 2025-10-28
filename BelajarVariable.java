@@ -6,9 +6,13 @@ public class BelajarVariable{
         String test;
         String nim;
         Scanner ns = new Scanner(System.in);
+        System.out.println("Masukan umur");       
+        
+        System.out.println("Masukan nim");
+        nim = ns.nextLine();
 
-        System.out.println("Masukan umur");
-        nUmur = ns.nextInt();
+        System.out.println("Masukan tes");
+        test = ns.nextLine();
 
 
     }
