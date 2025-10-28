@@ -14,6 +14,12 @@ public class BelajarVariable{
         System.out.println("Masukan tes");
         test = ns.nextLine();
 
+        System.out.println("Masukan nim");
+        nim = ns.nextLine();
+
+        System.out.println("Masukan tes");
+        test = ns.nextLine();
+
 
     }
 }
